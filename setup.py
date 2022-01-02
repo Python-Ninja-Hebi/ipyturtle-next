@@ -17,12 +17,15 @@ requirements = [
 
 setup(
     name='ipyturtlenext',
-    version='0.1.0',
+    version='0.1.1',
     description='Creating Turtle Graphics in IPython/Jupyter with ipycanvas',
     long_description=long_description,
     url='https://github.com/Python-Ninja-Hebi/ipython-turtle-next',
     author='python-ninja',
     author_email='hebi@python-ninja.com',
+    py_modules= [
+        'ipyturtlenext',
+    ],
     #packages=[
     #    'ipyturtlenext',
     #],
