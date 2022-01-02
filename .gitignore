@@ -1,0 +1,6 @@
+/.ipynb_checkpoints
+/.vscode
+/ipyturtlenext.egg-info
+/dist
+/build
+/__pycache__
